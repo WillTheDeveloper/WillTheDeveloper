@@ -1,4 +1,4 @@
-#About me
+# About me
 
 **What is my name?** - Will
 
@@ -18,7 +18,7 @@
 - Lots of web development, I absolutely love the Laravel Framework
 
 
-#Projects
+# Projects
 
 **Active Projects**
 
@@ -56,7 +56,7 @@ that I can place all my photos onto using the Nova backend for admin management 
 - Shhh, they are private!
 - I have a lot of them (10)
 
-#Experience
+# Experience
 
 - I know quite a lot about C#: Spent a few months learning it.
 - Certified AWS Cloud Practitioner (Plenty of experience on AWS basically).
