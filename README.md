@@ -46,6 +46,13 @@ full of projects that I am currently working on, I decided it would be useful to
   
 **Planned Projects**
 
+- Artifical Wayne (Public repo); This is still undergoing planning but I hope to build a discord bot that will take the 
+place of the old discord server owner who had to leave. This server is for college use only so don't ask me for an invite, I'm now to the owner.
+
+- Student Portal (Public repo); This is also being planned currently. It will hopefully, maybe one day, replace the current college
+student portal giving students access to all the resources that they need. Using Laravel framework and Tailwind for a refreshed
+design and look which I think would be awesome. Maybe get it done near September 2021.
+
 - Personal Photography Platform; Using the Laravel Framework and Tailwind, I want to make a platform
 that I can place all my photos onto using the Nova backend for admin management and showcase my work
   to the world. I might integrate some kind of purchasing system but it was not really my intention
