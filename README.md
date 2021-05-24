@@ -46,7 +46,7 @@ full of projects that I am currently working on, I decided it would be useful to
   
 **Planned Projects**
 
-- Artifical Wayne (Public repo); This is still undergoing planning but I hope to build a discord bot that will take the 
+- Artifical Wayne (Private repo); This is still undergoing planning but I hope to build a discord bot that will take the 
 place of the old discord server owner who had to leave. This server is for college use only so don't ask me for an invite, I'm now to the owner.
 
 - Student Portal (Public repo); This is also being planned currently. It will hopefully, maybe one day, replace the current college
