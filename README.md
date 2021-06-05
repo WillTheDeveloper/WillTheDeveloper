@@ -18,6 +18,7 @@
 - I listen to a lot of music
 - Some application development
 - Lots of web development, I absolutely love the Laravel Framework
+- Live streaming on [Twitch](https://www.twitch.tv/twitchifygamers)
 
 
 # Projects
