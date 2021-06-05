@@ -12,13 +12,14 @@
 
 **What do I enjoy doing in my free time?**
 
-- Photography
+- Photography (**Site coming soon**)
 - 3D Game Development
 - Music Production and Performances
-- I listen to a lot of music
+- I listen to a lot of music ([My Spotify](https://open.spotify.com/user/willthedeveloper13?si=f9527471e29049f1))
 - Some application development
 - Lots of web development, I absolutely love the Laravel Framework
 - Live streaming on [Twitch](https://www.twitch.tv/twitchifygamers)
+- Posting things on my [Instagram](https://www.instagram.com/willdotchill/)
 
 
 # Projects
