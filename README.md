@@ -34,14 +34,8 @@ tracker that effectively allows college students to track there work with all
   I use Nova which is not allowed to be shared freely. This is one of my
   long term projects that I hope to finish.
   
-- Spotify Tailwind Edition (Public Repo); This is just a side project that I felt
-like I wanted to do. I took inspiration from the recent overhaul spotify has had and
-  since Tailwind is quite modern and simplistic thought I would try and redesign it.
-  This is purely to allow me to practice using Tailwind, I have no other intentions for it.
-  
-- Pizza Ordering Application (Public Repo, College); This is something that I had to do at college
-which was fun and allowed me to use my C# skills on Visual Studio allowing me to build an application for
-  an interpreted client.
+- My own version of Laravel documentation and screencasts but are easier to understand for people who just
+  started using the software. I like to help people out!
   
 - Tailwind and Laravel Template (Public Repo); Since I use Laravel and Tailwind so much and have a folder
 full of projects that I am currently working on, I decided it would be useful to me and everyone else
@@ -61,6 +55,17 @@ design and look which I think would be awesome. Maybe get it done near September
 that I can place all my photos onto using the Nova backend for admin management and showcase my work
   to the world. I might integrate some kind of purchasing system but it was not really my intention
   to earn anything from my photography skills. I am yet to improve anyway.
+  
+**Postponed Projects**
+
+- Spotify Tailwind Edition (Public Repo); This is just a side project that I felt
+like I wanted to do. I took inspiration from the recent overhaul spotify has had and
+  since Tailwind is quite modern and simplistic thought I would try and redesign it.
+  This is purely to allow me to practice using Tailwind, I have no other intentions for it.
+  
+- Pizza Ordering Application (Public Repo, College); This is something that I had to do at college
+which was fun and allowed me to use my C# skills on Visual Studio allowing me to build an application for
+  an interpreted client.
   
 **Private Projects**
 
