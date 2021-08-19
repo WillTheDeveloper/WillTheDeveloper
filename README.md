@@ -6,9 +6,9 @@
 
 **How old am I?** - 17
 
-**Currently studying (College)** - Advanced Extended Diploma in Application Data Practitioner
+**Currently studying** - Advanced Extended Diploma in Application Data Practitioner
 
-**Finshed studying (College)** - Level 3 Technical Baccalaureate in Computer Science
+**Finshed studying** - Level 3 Technical Baccalaureate in Computer Science
 
 **What do I enjoy doing in my free time?**
 
