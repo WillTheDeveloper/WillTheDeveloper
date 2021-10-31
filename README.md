@@ -4,4 +4,4 @@
 
 # Hello World! My name is Will.
 
-I am currently studying but in my freetime I do a lot of web development and trying out different programming languages. I enjoy building large relational databases for a websites backend.
+I am currently studying but in my freetime I do a lot of web development and trying out different programming languages. I enjoy building large relational databases for a websites backend. I mainly do web developer with the Laravel framework along with Tailwind and Livewire. I do have quite a lot of reposititories but not all of them of public for obvious reasons.
