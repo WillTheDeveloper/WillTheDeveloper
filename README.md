@@ -1,3 +1,29 @@
-# Hello World! My name is Will.
+# Hello World! My name is Will. :wave:
 
-![OS](https://img.shields.io/badge/OS-Ubuntu-black?style=for-the-badge&logo=ubuntu) ![IDE](https://img.shields.io/badge/IDE-Php%20Storm-black?style=for-the-badge&logo=phpstorm) ![Framework](https://img.shields.io/badge/Framework-Laravel-black?style=for-the-badge&logo=laravel) ![Cloud](https://img.shields.io/badge/Cloud-AWS-black?style=for-the-badge&logo=amazonaws) ![Twitter Follow](https://img.shields.io/twitter/follow/willdotchill?color=black&label=twitter%20followers&style=for-the-badge&logo=twitter) 
+Welcome to my GitHub profile! Your probably wondering what you are doing here? Well you are reading about me! Thats pretty cool.
+
+## About me
+
+- 🏫 Currently studying computer science in college
+- 📚 Going to University of Toronto
+- 🎖️ Amazon Web Services Certifed: Cloud Practitioner
+
+## Projects
+
+- ✏️ [Study Portal](https://www.githhub.com/WillTheDeveloper/StudyPortal) - Platform built on Laravel that allows for students to collaborate on work.
+- 💎 [Ruby Forum](https://github.com/WillTheDeveloper/RailsForum) - Learning Ruby on Rails while building a simple forum at the same time.
+- 🎲 [Cards against software development](https://github.com/WillTheDeveloper/CardsAgainstSoftwareDevelopment) - Windows forms game inspired by cards against humanity.
+
+## Languages and Frameworks
+
+- 🔴 Ruby
+- 🔵 PHP
+- 🟣 MySQL
+- ⚪ Laravel
+- 🟠 Ruby on Rails
+
+## Interests
+
+- 🖥️ Linux
+- 📷 Photography
+- 💻 Servers
