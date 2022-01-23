@@ -22,6 +22,7 @@ Welcome to my GitHub profile! Your probably wondering what you are doing here? W
 
 - 🔴 Ruby
 - 🔵 PHP
+- 🟡 C#
 - 🟣 MySQL
 - ⚪ Laravel
 - 🟠 Ruby on Rails
