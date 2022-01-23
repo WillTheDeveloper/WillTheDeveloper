@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Your probably wondering what you are doing here? W
 
 ## Projects
 
-- ✏️ [Study Portal](https://www.github.com/WillTheDeveloper/StudyPortal) - Platform built on Laravel that allows for students to collaborate on work.
+- ✏️ [Study Portal](/StudyPortal) - Platform built on Laravel that allows for students to collaborate on work.
 - 💎 [Ruby Forum](https://github.com/WillTheDeveloper/RailsForum) - Learning Ruby on Rails while building a simple forum at the same time.
 - 🎲 [Cards against software development](https://github.com/WillTheDeveloper/CardsAgainstSoftwareDevelopment) - Windows forms game inspired by cards against humanity.
 - 🖥️ [My developer portfolio](https://github.com/WillTheDeveloper/SimpleDevelopersPortfolio) - Currently just a simple HTML website where I showcase my projects regarding applications and software that I have made.
