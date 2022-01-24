@@ -10,7 +10,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 📬 Fastest way to contact me would be via [email](mailto:willthedeveloper13@gmail.com).
 - 🖥️ I have lots of experience with Linux
 - 🧠 Learn things pretty quickly
-- ⌨️ My average WPM is 80
+- ⌨️ My average WPM is 90
 
 ## Projects
 
