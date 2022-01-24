@@ -1,12 +1,16 @@
 # Hello World! My name is Will. :wave:
 
-Welcome to my GitHub profile! Your probably wondering what you are doing here? Well you are reading about me! Thats pretty cool.
+Welcome to my profile! This profile is still a work in progress so there are lots of things still missing but currently shows all my best work so far.
 
 ## About me
 
 - 🏫 Currently studying computer science in college
 - 📚 Going to University of Toronto
 - 🎖️ Amazon Web Services Certifed: Cloud Practitioner
+- 📬 Fastest way to contact me would be via [email](mailto:willthedeveloper13@gmail.com).
+- 🖥️ I have lots of experience with Linux
+- 🧠 Learn things pretty quickly
+- ⌨️ My average WPM is 80
 
 ## Projects
 
@@ -29,6 +33,7 @@ Welcome to my GitHub profile! Your probably wondering what you are doing here? W
 
 ## Interests
 
-- 🖥️ Linux
-- 📷 Photography
-- 💻 Servers
+- 🖥️ Been using Linux for several years. Primarily Ubuntu and Ubuntu sever.
+- 📷 I have been doing photography for about 2 years in my free time as a hobby. I use the Canon M50 with a 15-50MM lens and a 55-200MM lens. Most people really like my photos and you can find most of them on my [Instagram]() but also on my [photography website]().
+- 💻 Always been facinated by servers and the entire infrastructure behind them. I have spent a lot of time building them and breaking them (on a software level) and expanding my understanding of them.
+- 🕸️ Alongside servers, I have started learning about the more complicated and advanced side of networking and how all the componenets communicate with one another.
