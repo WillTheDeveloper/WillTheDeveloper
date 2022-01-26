@@ -29,6 +29,8 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 🟡 C#
 - 🟣 MySQL
 - ⚪ Laravel
+- ⚫ Tailwind
+- 🟤 AlpineJS
 - 🟠 Ruby on Rails
 
 ## Interests
