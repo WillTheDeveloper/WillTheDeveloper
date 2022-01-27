@@ -6,7 +6,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 
 - 🏫 Currently studying computer science in college
 - 📚 Going to University of Toronto
-- 🎖️ Amazon Web Services Certifed: Cloud Practitioner
+- 🎖️ Amazon Web Services Certified: Cloud Practitioner
 - 📬 Fastest way to contact me would be via [email](mailto:willthedeveloper13@gmail.com).
 - 🖥️ I have lots of experience with Linux
 - 🧠 Learn things pretty quickly
