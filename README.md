@@ -11,6 +11,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 🖥️ I have lots of experience with Linux
 - 🧠 Learn things pretty quickly
 - ⌨️ My average WPM is 90
+- 📖 Currently learning C++
 
 ## Projects
 
@@ -26,7 +27,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 
 - 🔴 Ruby
 - 🔵 PHP
-- 🟡 C#
+- 🟡 C++
 - 🟣 MySQL
 - ⚪ Laravel
 - ⚫ Tailwind
