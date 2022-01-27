@@ -43,4 +43,4 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 
 ## Blog Posts
 
-*Coming Soon*
+- 🔖 [Laravel one year later](https://github.com/WillTheDeveloper/WillTheDeveloper/blob/master/blog/laravel_one_year_later.md)
