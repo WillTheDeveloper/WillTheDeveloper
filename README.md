@@ -12,6 +12,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 🧠 Learn things pretty quickly
 - ⌨️ My average WPM is 90
 - 📖 Currently learning C++
+- 🎵 Love listening to [music](https://open.spotify.com/user/willthedeveloper13?si=9c99a449c0b04192).
 
 ## Projects
 
