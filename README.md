@@ -14,6 +14,8 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 📖 Currently learning C++
 - 🎵 Love listening to [music](https://open.spotify.com/user/willthedeveloper13?si=9c99a449c0b04192).
 - 📷 Been doing photography for over 2 years now (Jan 2020 -> Present).
+- 🧑‍🎓 Student Governor and representive.
+- 🖼️ Awarded for "Most employable student" for 2021 in college.
 
 ## Projects
 
