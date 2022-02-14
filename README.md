@@ -14,7 +14,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 - 📖 Currently learning C++
 - 🎵 Love listening to [music](https://open.spotify.com/user/willthedeveloper13?si=9c99a449c0b04192).
 - 📷 Been doing photography for over 2 years now (Jan 2020 -> Present).
-- 🧑‍🎓 Student Governor and representive.
+- 🧑‍🎓 Student Governor and representative.
 - 🖼️ Awarded for "Most employable student" for 2021 in college.
 
 ## Projects
@@ -40,10 +40,10 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 
 ## Interests
 
-- 🖥️ Been using Linux for several years. Primarily Ubuntu and Ubuntu sever.
+- 🖥️ Been using Linux for several years. Primarily Ubuntu and Ubuntu server.
 - 📷 I have been doing photography for about 2 years in my free time as a hobby. I use the Canon M50 with a 15-50MM lens and a 55-200MM lens. Most people really like my photos and you can find most of them on my [Instagram]() but also on my [photography website]().
-- 💻 Always been facinated by servers and the entire infrastructure behind them. I have spent a lot of time building them and breaking them (on a software level) and expanding my understanding of them.
-- 🕸️ Alongside servers, I have started learning about the more complicated and advanced side of networking and how all the componenets communicate with one another.
+- 💻 Always been fascinated by servers and the entire infrastructure behind them. I have spent a lot of time building them and breaking them (on a software level) and expanding my understanding of them.
+- 🕸️ Alongside servers, I have started learning about the more complicated and advanced side of networking and how all the components communicate with one another.
 
 ## Blog Posts
 
