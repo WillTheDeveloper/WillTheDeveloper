@@ -2,7 +2,7 @@
 
 Welcome to my profile! This profile is still a work in progress so there are lots of things still missing but currently shows all my best work so far.
 
-![View counter](https://komarev.com/ghpvc/?username=WillTheDeveloper)
+![View counter](https://komarev.com/ghpvc/?username=WillTheDeveloper&label=Visitors)
 
 ## About me
 
