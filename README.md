@@ -22,6 +22,7 @@ Welcome to my profile! This profile is still a work in progress so there are lot
 ## Projects
 
 - ✏️ [Study Portal](https://github.com/WillTheDeveloper/StudyPortal) - Platform built on Laravel that allows for students to collaborate on work.
+- 🔭 [Study Search](https://github.com/Study-Portal/StudySearch) - A search engine "like" tool for students to find the resources they need.
 - 💎 [Ruby Forum](https://github.com/WillTheDeveloper/RailsForum) - Learning Ruby on Rails while building a simple forum at the same time.
 - 🎲 [Cards against software development](https://github.com/WillTheDeveloper/CardsAgainstSoftwareDevelopment) - Windows forms game inspired by cards against humanity.
 - 🖥️ [My developer portfolio](https://github.com/WillTheDeveloper/SimpleDevelopersPortfolio) - Currently just a simple HTML website where I showcase my projects regarding applications and software that I have made.
