@@ -1,8 +1,14 @@
 # Hello World! My name is Will. :wave:
 
-Welcome to my profile! This profile is still a work in progress so there are lots of things still missing but currently shows all my best work so far.
+Welcome to my profile!
 
 ![View counter](https://komarev.com/ghpvc/?username=WillTheDeveloper&label=Visitors)
+
+*Flights and my next flight*
+
+![My flights](https://banners-my.flightradar24.com/WillDotChill.png)
+
+![Future flights](https://banners-my.flightradar24.com/WillDotChill-future.png)
 
 ## About me
 
