@@ -4,12 +4,6 @@ Welcome to my profile!
 
 ![View counter](https://komarev.com/ghpvc/?username=WillTheDeveloper&label=Visitors)
 
-*Flights and my next flight*
-
-![My flights](https://banners-my.flightradar24.com/WillDotChill.png)
-
-![Future flights](https://banners-my.flightradar24.com/WillDotChill-future.png)
-
 ## About me
 
 - 🏫 Currently studying computer science in college
