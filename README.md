@@ -1,4 +1,4 @@
-# Hello World! My name is Will. :wave:
+# Hey, I'm Will! And I love software!
 
 Welcome to my profile! My name is Will and I am a very idea and passion driven person when it comes to working on my own or other people's projects where I believe there is lots of potential and area to express my skills and abilities in what I like doing best.
 Most of the time, you will find me working on a project on GitHub but outside of that time, I am either taking photos with my camera or touring around Switzerland.
