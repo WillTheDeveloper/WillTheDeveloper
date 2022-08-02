@@ -11,7 +11,7 @@ Most of the time, you will find me working on a project on GitHub but outside of
 - Amazon Web Services Certified: Cloud Practitioner
 - Fastest way to contact me would be via [email](mailto:willthedeveloper13@gmail.com).
 - I have lots of experience with Linux
-- My average WPM is 90
+- My average [WPM](https://monkeytype.com/profile/bSnEl4ylmmN0Nv5q6aUecBqIZmX2) is 90
 - Love listening to [music](https://open.spotify.com/user/willthedeveloper13?si=9c99a449c0b04192).
 - Been doing photography for over 2 years now (Jan 2020 -> Present).
 - Student Governor and representive.
